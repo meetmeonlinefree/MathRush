@@ -1,0 +1,24 @@
+{
+  "privacy_policy": {
+    "application_name": "MathRush",
+    "data_collection": {
+      "ru": "Приложение MathRush не собирает, не хранит и не передает никакие персональные данные пользователей.",
+      "en": "MathRush does not collect, store, or transmit any personal data of users."
+    },
+    "types_of_data": {
+      "ru": "Мы не собираем никакую личную информацию, в том числе имена, адреса электронной почты, номера телефонов и другую идентифицирующую информацию.",
+      "en": "We do not collect any personal information, including names, email addresses, phone numbers, or any other identifying information."
+    },
+    "permissions": {
+      "ru": "Приложение не запрашивает доступ к данным пользователя, файлам или устройствам.",
+      "en": "The application does not request access to user data, files, or devices."
+    },
+    "policy_changes": {
+      "ru": "Мы оставляем за собой право вносить изменения в эту политику. Обновления будут опубликованы в этом разделе.",
+      "en": "We reserve the right to make changes to this policy. Updates will be posted in this section."
+    },
+    "contact": {
+      "email": "meetmeonlinefree@gmail.com"
+    }
+  }
+}
